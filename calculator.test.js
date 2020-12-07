@@ -5,7 +5,7 @@ const {
   divide,
   clearAllfields,
 } = require("./calculator");
-
+ 
 // ADDITION TESTS
 describe("valid additions", () => {
   test("1 + 1 = 2", () => {
